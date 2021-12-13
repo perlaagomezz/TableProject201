@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(123, 0, 25);
+}
+header{
+    text-align: center;
+    color: white;
+}
+table{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 550px;
+    border: solid white 2px;
+    border-spacing: 0;
+}
+th{
+    border: solid rgb(255, 255, 255) 2px;
+    color: white;
+    background-color: black;
+}
+td{
+    border: solid white 2px;
+    color: rgb(250, 247, 247);
+    background-color: rgb(2, 0, 0);
+}
+img{
+max-width: 234px;
+}
